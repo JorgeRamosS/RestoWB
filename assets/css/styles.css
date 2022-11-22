@@ -582,7 +582,7 @@ img {
   align-items: center;
   column-gap: 0.5rem;
   color: var(--title-color);
-  font-family: var(--title-color);
+  font-family: var(--title-font);
   font-size: var(--h3-font-size);
   font-weight: var(--font-semi-bold);
   margin-bottom: 1rem;
